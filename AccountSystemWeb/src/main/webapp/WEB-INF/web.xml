@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- https://docs/google/com/cd/E19857-01/819-6518/obxii/index.html -->
+
+<!DOCTYPE web-app PUBLIC '-//Sun MicroSystems, INC.//DTD WEB
+        Application 2.3//EN' 'http://java.sun.com/dtd/web-app_2_3.dtd'>
+
+<web-app>
+    <display-name>AccountSystem</display-name>
+</web-app>
